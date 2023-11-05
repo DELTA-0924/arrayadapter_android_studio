@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="celebrities">
+        <item>Bill Gates</item>
+        <item>Warren Buffett</item>
+        <item>Jeff Bezos</item>
+        <item>Amancio Ortega</item>
+        <item>Mark Zuckerberg</item>
+        <item>Elon Musk</item>
+        <item>Oprah Winfrey</item>
+        <item>Taylor Swift</item>
+        <item>Beyoncé</item>
+        <item>Kim Kardashian</item>
+        <item>Kanye West</item>
+        <item>Tom Hanks</item>
+        <item>Meryl Streep</item>
+        <item>Leonardo DiCaprio</item>
+        <item>Samira Samirka</item>
+    </string-array>
+    <string-array name="celebrity_finances">
+        <item>100 миллиардов долларов</item>
+        <item>90 миллиардов долларов</item>
+        <item>200 миллиардов долларов</item>
+        <item>70 миллиардов долларов</item>
+        <item>80 миллиардов долларов</item>
+        <item>180 миллиардов долларов</item>
+        <item>60 миллиардов долларов</item>
+        <item>3 миллиарда долларов</item>
+        <item>10 миллиардов долларов</item>
+        <item>70 миллиардов долларов</item>
+        <item>2 миллиарда долларов</item>
+        <item>12 миллиардов долларов</item>
+        <item>2 миллиарда долларов</item>
+        <item>150 миллионов долларов</item>
+        <item>20 миллиардов долларов</item>
+        <!-- Добавьте дополнительные элементы здесь -->
+        </string-array>
+</resources>
